@@ -1,6 +1,9 @@
-# Recursos de Geoprogramación y Sistemas de Información Geográfica 🗺
+# Geoprogramming and Geographic Information System resources 🗺
 
-## ¡Sígueme en las redes!
+Hi there! I'm a spanish geographer born in 1995 who's learning to code within GIS 
+and other geotecnologic tools, mainly focused on PyQGIS, ArcPy, PostGIS and R. 
+
+## Follow me!
 
 - 🌐 <a href="https://programapa.wordpress.com/">Blog PrograMapa</a>
 - 💼 <a href="https://www.linkedin.com/in/robertojl/">LinkedIn</a>
