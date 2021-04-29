@@ -1,7 +1,12 @@
 # Geoprogramming and Geographic Information System resources 🗺
 
 Hi there! I'm a spanish geographer born in 1995 who's learning to code within GIS 
-and other geotecnologic tools, mainly focused on PyQGIS, ArcPy, PostGIS and R. 
+and other geotecnologic tools.
+
+Mainly focused on: 
+- Python 🐍 (PyQGIS, ArcPy)
+- PostGIS 🐘 
+- R 📈
 
 ## Follow me!
 
