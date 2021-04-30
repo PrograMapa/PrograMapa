@@ -13,6 +13,6 @@ my personal blog - PrograMapa - and other platforms.
 📸 <a href="https://www.instagram.com/progra_mapa/">Instagram</a><br>
 
 ## Languages 
-- Python 🐍 
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 - PostGIS 🐘 
-- R 📈 
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
