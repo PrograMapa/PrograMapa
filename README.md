@@ -3,7 +3,11 @@
 Hi there! I'm a spanish geographer born in 1995 who's learning to code within GIS 
 and other geotecnologic tools.
 
-Mainly focused on: 
+I enjoy sharing useful content and contributing to develop geographic knowledge through 
+technology and Internet.
+
+
+## Languages 
 - Python 🐍 
 - PostGIS 🐘 
 - R 📈 
