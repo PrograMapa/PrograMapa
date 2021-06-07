@@ -4,7 +4,7 @@ Hi there! I'm a spanish geographer who's learning to code within GIS
 and other geotecnologic tools.
 
 I enjoy sharing useful content and contributing to develop geographic knowledge through 
-my personal blog - PrograMapa - and other platforms.
+my personal blog - PrograMapa - and other platforms (in spanish)
 
 ## Follow me!
 🌐 <a href="https://programapa.wordpress.com/">PrograMapa</a><br>
