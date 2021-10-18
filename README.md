@@ -1,7 +1,8 @@
-
-<img src="https://raw.githubusercontent.com/PrograMapa/programapa.github.io/main/img/programapa_logo.png" width="200" height="200" text-align: center></div>
-
 ## Summary
+
+<img src="https://raw.githubusercontent.com/PrograMapa/programapa.github.io/main/img/programapa_logo.png" width="75" height="75" text-align: center></div>
+
+
 
 Hi there! I'm a spanish geographer who's learning to code within GIS 
 and other geotecnologic tools.
