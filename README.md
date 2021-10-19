@@ -4,11 +4,8 @@
 
 
 
-Hi there! I'm a spanish geographer who's learning to code within GIS 
-and other geotecnologic tools.
+Hi there! I'm a geographer who loves sharing useful content and contributing to develop geographic knowledge through technology.
 
-I enjoy sharing useful content and contributing to develop geographic knowledge through 
-my personal blog 
 
 ## Follow me!
 [![](https://img.shields.io/badge/@progra_mapa-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/progra_mapa)[![](https://img.shields.io/badge/PrograMapa-grey?style=for-the-badge&logo=wordpress)](https://programapa.wordpress.com)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertojl)[![](https://img.shields.io/badge/@progra_mapa-white?style=for-the-badge&logo=instagram)](https://instagram.com/progra_mapa)
