@@ -1,6 +1,6 @@
 # Summary
 
-<img src="https://programapa.files.wordpress.com/2021/05/img_20210425_140733.jpg" width="200" height="200" text-align: center></div>
+<img src="https://programapa.github.io/img/programapa-logo-gris-circulo.png" width="150" height="150">
 
 Hi there! I'm a geographer specialized in geospatial and geographic information systems who loves sharing useful content and contributing to develop geographic knowledge.
 
