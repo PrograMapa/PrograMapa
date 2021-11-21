@@ -1,7 +1,5 @@
 # Summary
 
-<img src="https://programapa.github.io/img/programapa-logo-gris-circulo.png" width="50" height="50">
-
 Hi there! I'm a geographer specialized in geospatial and geographic information systems who loves sharing useful content and contributing to develop geographic knowledge.
 
 Some of the technologies I work with are:
