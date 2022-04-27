@@ -4,7 +4,7 @@ Hi there! I'm a geographer specialized in geospatial and geographic information 
 
 # Projects 🗺️
 
-Check it all at my portfolio:
+Check out my portfolio:
 
 [![](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://roberer.github.io)
 
