@@ -1,6 +1,6 @@
 # About 🙋‍♂️
 
-Hi there! I'm a geographer specialized in geospatial and geographic information systems who loves sharing useful content and contributing to develop geographic knowledge.
+Hi there! I'm a geographer who loves working within geospatial technologies and sharing useful content to empower geographic knowledge.
 
 # Projects 🗺️
 
