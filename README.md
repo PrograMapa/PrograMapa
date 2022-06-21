@@ -1,8 +1,8 @@
-# About 🙋‍♂️
+# About 🙋‍♂️🗺️
 
 Hi there! I'm a geographer who loves working within geospatial technologies and sharing useful content to empower geographic knowledge.
 
-# Projects 🗺️
+# Projects 🚀
 
 Check out my portfolio:
 
