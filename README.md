@@ -9,4 +9,4 @@ Check out my portfolio:
 [![](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://roberer.github.io)
 
 # Let's connect! 🌐
-[![](https://img.shields.io/badge/@geoespaciologo_-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/geoespaciologo_)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertojl)
+[![](https://img.shields.io/badge/@exorober_-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/exorober_)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertojl)
